@@ -1,7 +1,5 @@
 # Bloc 3 - Analyse prédictive de données structurées par l'intelligence artificielle - Walmart sales
 
-[Presentation video](https://share.vidyard.com/watch/hTT3RwX7n8M22TDi1hCyx8?)
-
 ### Introduction
 
 Walmart Inc. is an American multinational retail corporation founded in 1962. As of 2022, Walmart had over 10.000 stores and clubs in 24 countries, operating a chain of hypermarkets, discount department stores, and grocery stores. In 2022, Walmart was rated the world's largest company by revenue, and the world's largest private employer.
