@@ -1,7 +1,5 @@
 # Bloc 3 - Analyse prédictive de données structurées par l'intelligence artificielle - Conversion rate challenge
 
-[Presentation video](https://share.vidyard.com/watch/hTT3RwX7n8M22TDi1hCyx8?)
-
 ### Introduction
 
 www.datascienceweekly.org is a free newsletter helping people keeping up with the latest developments in data science. It is curated by independent data scientists and anyone can simply register on the website with an email address to receive weekly news.
