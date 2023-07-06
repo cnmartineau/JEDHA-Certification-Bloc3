@@ -1,7 +1,5 @@
 # Bloc 3 - Analyse prédictive de données structurées par l'intelligence artificielle - Uber pickups
 
-[Presentation video](https://share.vidyard.com/watch/hTT3RwX7n8M22TDi1hCyx8?)
-
 ### Introduction
 
 Uber is a company founded in 2009, initially to provide ridesharing services. Since then, Uber expanded its activities to delivery (food, packages, couriers), freight transport and alternative means of urban transportation (bikes, scooters). Uber operates in about 70 countries and 10.500 cities and generates an average of 23 million trips per day.
